@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 19, 2017, 10:52:00 AM
+    Author     : TOBILOBA
+*/
+
+.Button {
+    -fx-background-color: #000000;
+    -fx-text-fill: #ffffff;
+}
+
+.CButton {
+    -fx-background-color: #ff3333;
+    -fx-text-fill: #ffffff;
+}
+
+.OButton {
+    -fx-background-color: #999999;
+    -fx-text-fill: #000000;
+}
+
+.FXLabel {
+    -fx-font: monospace;
+    -fx-text-fill: #000000;
+}
